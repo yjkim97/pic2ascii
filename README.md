@@ -35,15 +35,16 @@ You can put the two programs together and run them like this:
 
 ```
 png2rgb /test.png 200 | ./rgb2ascii
+```
 
 ## Sample Run <a name="test"></a>
 Sample run of the code:
 ```
 png2rgb /picture.png 50 | ./rgb2ascii
 ```
-<img class="ui image" src="../images/rgb2ascii.png">
+<img class="ui image" src="yjkim97.github.io/images/rgb2ascii.png">
 
 ```
 png2rgb /picture.png 100 | ./rgb2ascii
 ```
-<img class="ui image" src="../images/rgb2ascii.png">
+<img class="ui image" src="yjkim97.github.io/images/rgb2ascii.png">
