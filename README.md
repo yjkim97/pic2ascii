@@ -42,9 +42,9 @@ Sample run of the code:
 ```
 png2rgb /picture.png 50 | ./rgb2ascii
 ```
-<img class="ui image" src="yjkim97.github.io/images/rgb2ascii.png">
+<img class="ui image" src="../rgb2ascii.png">
 
 ```
 png2rgb /picture.png 100 | ./rgb2ascii
 ```
-<img class="ui image" src="yjkim97.github.io/images/rgb2ascii.png">
+<img class="ui image" src="../rgb2ascii2.png">
